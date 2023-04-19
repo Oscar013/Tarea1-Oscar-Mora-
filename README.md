@@ -1,2 +1,23 @@
-# Tarea1-Oscar-Mora-
-tarea 1 de procesamiento de datos 
+# Tribu africana mursi 
+
+
+![indigenas del valle del Omo](250px-Mursi_Tribe,_Ethiopia_(8159768048).jpg)
+
+### 1. **Vistazo cultural**
+
+- Suroeste de Etiopía 
+- Ganaderos y productores de cereales 
+- población aproximada 10000
+- Área aproximada de 2700 km2 atravesada por el rio Omo y una cadena montañosa 
+
+[Los mursi](http://cecut.gob.mx/exposiciones/micros/etiopia/mursi.html) son una de las tribus que habitan en el valle del rio Omo en Etiopía más específicamente en la jinka y las montañas del Omo park. Actualmente, su población es cercana a las 10000 personas y habiatan en un territorio aproximado a los 2700km2.  Esta población mantiene la mayor parte de sus costumbres ancestrales que se han ido conservando por generaciones para adaptarse y sobrevivir, en la actualidad si bien en cierto que mantienen su impactante apariencia física y rasgos que los identifican como mursi, tales como los platos labiales, la pintura facial, las escarificaciones, entre otras, no es solamente por tradición sino que también lo hacen para obtener un ingreso monetario el cual lo obtienen al cobrar a los turistas por entrar a su poblados y al realizar fotos también se muestran agresivos para cobrar cada una de ellas. Son productores de cereales como el sorgo del cual elaboran un tipo de pan con el que acompañan sus comidas, además grandes ganaderos, aunque no es común que utilicen el ganado para la carne, sino que aprovechan mayormente la leche y la sangre, esta última es bebida y la extraen sin matar a el animal, utilizan un arco y una flecha para perforar la yugular de la vaca y es tomada y almacenada en cuencos en al que se deja cuajar para ser comida después. El ganado también es utilizado en los matrimonios como un intercambio entre familias el cual va a depender del tamaño del plato labial de la mujer, que dicho sea de paso es un rasgo de belleza entre la población mursi y entre más grande sea mayor será la cantidad cabezas de ganado que se tienen que ofrecer a la familia de la mujer, la cantidad puede ser de entre 30 a 50 cabezas de ganado. 
+
+### 2. **Población**
+  
+La población actual aproximadas de los mursi es de 10000 personas, los cuales se encuentran divididos en diferentes clanes, los cuales están divididos en familias la cuales viven en el valle del rio Omo en la jinka y en las montañas de Omo park, es de destacar que aunque los clanes se identifican como mursi cada vez que dos clanes se encuentran son muy violentos por defender sus territorios, además que andan armados con fusiles de asalto normalmente ak47, las escarificaciones en la piel, en su mayoría de los hombres, tienen el significado de haber matado a un miembro de otro clan, lo que es motivo de celebración, además que tiene un significado de grandeza y superioridad. Por otro lado, el tipo de vivienda son chozas hechas con ramas y vegetación con forma semicircular, las cuales son muy bajas y con una sola puerta pequeña, esto para evitar el ingreso de animales, estas además solo tienen la función de dormitorio y de bodega para los utensilios que tienen, ya que prácticamente todas las actividades como cocinar se realizan afuera de la casa en fogones, la estructura de estas casas es también debido a que por la ganadería ellos en periodos indefinidos migran a otros sectores para encontrar nuevos pastizales para el ganado. 
+Los mursis comparten el territorio del valle del rio Omo con otras tribus como los bodis, los daasanaches, los karas, los kwegus y los nyangatoms, los cuales dependen directamente de la presencia del río Omo para desarrollar la mayor parte de sus actividades de subsistencia. 
+
+### 3. **Hábitat, territorio**
+
+Como ya ha sido mencionado antes los diferentes clanes de la tribu mursi se encuentran distribuidos a lo largo del [valle del rio Omo](https://www.survival.es/indigenas/valledelomo), debido a su gran importancia en la supervivencia de las tribus que viven en esa zona, las tribus habitantes de este valle se ven beneficiados de las crecidas de este río de múltiples maneras, los mursi utilizan en su mayoría la zona húmeda resultante de la crecida para ahí plantar en comúnmente sorgo que es el cereal base de su alimentación. Este rio se ha visto amenazado y por ende la vida que llevan los mursi, se ha intentado construir varias represas a lo largo de su cauce para generar ingresos económicos al país, además de empresas de monocultivos que quieren aprovechar las fertiliza de los suelos para explotar la tierra.  Debido a estas situaciones muchas tribus, incluyendo algunos mursi han sido reubicados a terrenos en los que mezclan a todo tipo de culturas sin importar su procedencia y allí viven con ayudas escasas del gobierno.
+La mayoría de los clanes son muy defensivos con sus territorios, que bien es cierto que son temporales ya que se tienen que estar moviendo constantemente debido a los pastizales para su ganado, esto con el fin de dar un descanso al suelo y la vegetación a que se regenere para posteriormente volver.
